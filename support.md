@@ -1,6 +1,6 @@
 ---                                                                                                               
 layout: default                                           
-title: Privacy Policy
+title: Support
 ---
 
 # Memorize Bible Verses By Heart — Support                                                                        
