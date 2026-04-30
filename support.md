@@ -1,3 +1,8 @@
+---                                                                                                               
+layout: default                                           
+title: Privacy Policy
+---
+
 # Memorize Bible Verses By Heart — Support                                                                        
                                                                                                                     
   Need help, found a bug, or have a feature request? I read every message.                   
